@@ -1,0 +1,3 @@
+[submodule "crazy-repo-2"]
+    path = crazy-repo-2
+    url  = https://github.com/ConquestOfParadise/crazy-repo-2.git
