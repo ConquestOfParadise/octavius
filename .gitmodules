@@ -1,0 +1,4 @@
+[submodule "na-dev"]
+    path = na-dev
+    url = https://github.com/ConquestOfParadise/na-dev.git
+    branch = qa
