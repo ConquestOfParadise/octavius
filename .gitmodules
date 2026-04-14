@@ -1,3 +1,8 @@
 [submodule "crazy-repo-2"]
     path = crazy-repo-2
     url = https://github.com/ConquestOfParadise/crazy-repo-2.git
+
+[submodule "na-dev"]
+    path = na-dev
+    url = https://github.com/ConquestOfParadise/na-dev.git
+    branch = dev
